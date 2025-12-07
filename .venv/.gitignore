@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+.idea/
+*.iml
+venv/
+env/
+.env
+config.ini
+*.log
+*.sqlite3
+*.db
+__pycache__/
+*.py[cod]
+*.pyo
+.venv
+.idea/misc.xml
+.idea/workspace.xml
+
+
+
+
+
